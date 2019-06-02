@@ -71,7 +71,7 @@
           <div class="apropos" id="apropos">
             <div class="row">
                 <div class="col-md-12">
-                    <h4>A propos de moi</h4>
+                    <h4>About me</h4>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae, temporibus et. Soluta, deleniti! Maiores, non quod. Quis, omnis quibusdam dolore ad quidem ducimus? Rerum debitis voluptatibus architecto quisquam earum beatae?</p>
                 </div>
             </div>
